@@ -1,1 +1,1 @@
-"# alpinejs-random-quote" 
+# alpinejs-random-quote
