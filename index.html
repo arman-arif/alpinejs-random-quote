@@ -10,8 +10,8 @@
 <body>
     <div class="wrapper">
         <div class="quote" x-data="quote" x-init="getQuote()">
-            <blockquote x-text="content"></blockquote>
-            <p class="author" x-text="author"></p>
+            <blockquote x-text="content" x-model="content"></blockquote>
+            <p class="author" x-text="author" x-model="author"></p>
         </div>
     </div>
     <script src="//unpkg.com/alpinejs" defer></script>
