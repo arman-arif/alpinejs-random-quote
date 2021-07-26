@@ -10,3 +10,9 @@ const quote = {
         })
     }
 }
+
+
+
+setInterval(() => {
+    quote.getQuote();
+}, 3000);
