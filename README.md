@@ -1,1 +1,1 @@
-# alpinejs-random-quote
+# AlpineJS Random Quotes Generator
